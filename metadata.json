@@ -1,0 +1,9 @@
+{
+  "uuid": "gnome-video-wallpaper@tridoxx.com",
+  "name": "Video Wallpaper",
+  "description": "Reproduce un video como fondo de pantalla",
+  "shell-version": [
+    "49"
+  ],
+  "version": 1
+}
